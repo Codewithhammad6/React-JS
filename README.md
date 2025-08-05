@@ -1,5 +1,9 @@
 # ⚛️ React.js Mega Projects Collection
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="150">
+</p>
+
 ![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=white)
 ![Projects](https://img.shields.io/badge/Mega%20Projects-10%2B-brightgreen)
